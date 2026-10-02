@@ -6,13 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `2026-10-01` |
+| **1** | 0 | 1 | 0 | `2026-10-02` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-No problems synced yet.
+### DSA (1)
+
+| # | Title | Solution(s) | Difficulty | Topic | Last Synced |
+| :---: | :--- | :---: | :---: | :--- | :---: |
+| 0001 | [72. Meeting Rooms
+POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.py) | ⚪ Unspecified | `General` | `2026-10-02` |
 
 ---
 
