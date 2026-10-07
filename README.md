@@ -6,19 +6,20 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-10-07` |
+| **3** | 0 | 3 | 0 | `2026-10-07` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.py) | ⚪ Unspecified | `General` | `2026-10-02` |
 | 0002 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0003 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
 
 ---
 
