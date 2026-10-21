@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **41** | 0 | 41 | 0 | `2026-10-21` |
+| **42** | 0 | 42 | 0 | `2026-10-21` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (41)
+### DSA (42)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -58,6 +58,7 @@ POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.p
 | 0039 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
 | 0040 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
 | 0041 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0042 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
 
 ---
 
