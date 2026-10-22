@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **42** | 0 | 42 | 0 | `2026-10-21` |
+| **43** | 0 | 43 | 0 | `2026-10-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (42)
+### DSA (43)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -55,10 +55,11 @@ POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.p
 | 0036 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
 | 0037 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [PY](./DSA/General/return-the-largest-digit-in-a-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-20` |
 | 0038 | [101. Reverse a number](./DSA/General/reverse-a-number) | [PY](./DSA/General/reverse-a-number/solution.py) | 🟡 Medium | `General` | `2026-10-20` |
-| 0039 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
-| 0040 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0041 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
-| 0042 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0039 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [PY](./DSA/Strings/reverse-a-string-ii/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
+| 0040 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0041 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0042 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0043 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
 
 ---
 
