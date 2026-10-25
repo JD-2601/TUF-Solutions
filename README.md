@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **60** | 0 | 60 | 0 | `2026-10-25` |
+| **61** | 0 | 61 | 0 | `2026-10-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (60)
+### DSA (61)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -70,13 +70,14 @@ POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.p
 | 0051 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [PY](./DSA/Arrays/reverse-an-array-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 | 0052 | [324. Rotate String](./DSA/Strings/rotate-string) | [PY](./DSA/Strings/rotate-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
 | 0053 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0054 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [PY](./DSA/Arrays/sort-characters-by-frequency/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0055 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
-| 0056 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [PY](./DSA/Arrays/sum-of-array-elements-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0057 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [PY](./DSA/General/sum-of-digits-in-a-given-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0058 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0059 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0060 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0054 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [PY](./DSA/Arrays/selection-sort/solution.py) | 🟡 Medium | `Arrays` | `2026-10-25` |
+| 0055 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [PY](./DSA/Arrays/sort-characters-by-frequency/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0056 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0057 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [PY](./DSA/Arrays/sum-of-array-elements-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0058 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [PY](./DSA/General/sum-of-digits-in-a-given-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0059 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0060 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0061 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
 
 ---
 
