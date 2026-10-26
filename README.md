@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **73** | 0 | 73 | 0 | `2026-10-26` |
+| **74** | 0 | 74 | 0 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (73)
+### DSA (74)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -35,61 +35,62 @@
 | 0017 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [PY](./DSA/General/gcd-of-two-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
 | 0018 | [296. Highest Occurring Element in an Array](./DSA/Arrays/highest-occurring-element-in-an-array) | [PY](./DSA/Arrays/highest-occurring-element-in-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
 | 0019 | [1013. Insertion Sorting](./DSA/Arrays/insertion-sorting) | [PY](./DSA/Arrays/insertion-sorting/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0020 | [252. Isomorphic Strings](./DSA/Strings/isomorphic-string) | [PY](./DSA/Strings/isomorphic-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
-| 0021 | [702. Largest Element](./DSA/General/largest-element) | [PY](./DSA/General/largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
-| 0022 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [PY](./DSA/Strings/largest-odd-number-in-a-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
-| 0023 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [PY](./DSA/General/lcm-of-two-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0024 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [PY](./DSA/Arrays/left-rotate-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0025 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [PY](./DSA/Arrays/left-rotate-array-by-one/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0026 | [838. Linear Search](./DSA/General/linear-search) | [PY](./DSA/General/linear-search/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-26` |
-| 0027 | [79. Longest Common Prefix](./DSA/General/longest-common-prefix) | [PY](./DSA/General/longest-common-prefix/solution.py) | ⚪ Unspecified | `General` | `2026-10-24` |
-| 0028 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [PY](./DSA/General/maximum-consecutive-ones/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
-| 0029 | [72. Meeting Rooms
+| 0020 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [PY](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0021 | [252. Isomorphic Strings](./DSA/Strings/isomorphic-string) | [PY](./DSA/Strings/isomorphic-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0022 | [702. Largest Element](./DSA/General/largest-element) | [PY](./DSA/General/largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0023 | [341. Largest Odd Number in a String](./DSA/Strings/largest-odd-number-in-a-string) | [PY](./DSA/Strings/largest-odd-number-in-a-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
+| 0024 | [792. LCM of two numbers](./DSA/General/lcm-of-two-numbers) | [PY](./DSA/General/lcm-of-two-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0025 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [PY](./DSA/Arrays/left-rotate-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0026 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [PY](./DSA/Arrays/left-rotate-array-by-one/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0027 | [838. Linear Search](./DSA/General/linear-search) | [PY](./DSA/General/linear-search/solution.py) | ⚪ Unspecified | `Binary-Search` | `2026-10-26` |
+| 0028 | [79. Longest Common Prefix](./DSA/General/longest-common-prefix) | [PY](./DSA/General/longest-common-prefix/solution.py) | ⚪ Unspecified | `General` | `2026-10-24` |
+| 0029 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [PY](./DSA/General/maximum-consecutive-ones/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0030 | [72. Meeting Rooms
 POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.py) | ⚪ Unspecified | `General` | `2026-10-02` |
-| 0030 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
-| 0031 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [PY](./DSA/Strings/palindrome-check/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
-| 0032 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [PY](./DSA/Strings/palindrome-number/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-20` |
-| 0033 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0034 | [898. Pattern 10](./DSA/General/pattern-10) | [PY](./DSA/General/pattern-10/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0035 | [907. Pattern 11](./DSA/General/pattern-11) | [PY](./DSA/General/pattern-11/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0036 | [909. Pattern 12](./DSA/General/pattern-12) | [PY](./DSA/General/pattern-12/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0037 | [918. Pattern 13](./DSA/General/pattern-13) | [PY](./DSA/General/pattern-13/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0038 | [920. Pattern 14](./DSA/General/pattern-14) | [PY](./DSA/General/pattern-14/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0039 | [929. Pattern 15](./DSA/General/pattern-15) | [PY](./DSA/General/pattern-15/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0040 | [931. Pattern 16](./DSA/General/pattern-16) | [PY](./DSA/General/pattern-16/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0041 | [940. Pattern 17](./DSA/General/pattern-17) | [PY](./DSA/General/pattern-17/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0042 | [942. Pattern 18](./DSA/General/pattern-18) | [PY](./DSA/General/pattern-18/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0043 | [951. Pattern 19](./DSA/General/pattern-19) | [PY](./DSA/General/pattern-19/solution.py) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0044 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0045 | [962. Pattern 20](./DSA/General/pattern-20) | [PY](./DSA/General/pattern-20/solution.py) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0046 | [964. Pattern 21](./DSA/General/pattern-21) | [PY](./DSA/General/pattern-21/solution.py) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0047 | [973. Pattern 22](./DSA/General/pattern-22) | [PY](./DSA/General/pattern-22/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
-| 0048 | [975. Pattern 3](./DSA/General/pattern-3) | [PY](./DSA/General/pattern-3/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0049 | [984. Pattern 4](./DSA/General/pattern-4) | [PY](./DSA/General/pattern-4/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0050 | [986. Pattern 5](./DSA/General/pattern-5) | [PY](./DSA/General/pattern-5/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0051 | [995. Pattern 6](./DSA/General/pattern-6) | [PY](./DSA/General/pattern-6/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0052 | [997. Pattern 7](./DSA/General/pattern-7) | [PY](./DSA/General/pattern-7/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0053 | [1006. Pattern 8](./DSA/General/pattern-8) | [PY](./DSA/General/pattern-8/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0054 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
-| 0055 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0056 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [PY](./DSA/General/return-the-largest-digit-in-a-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-20` |
-| 0057 | [101. Reverse a number](./DSA/General/reverse-a-number) | [PY](./DSA/General/reverse-a-number/solution.py) | 🟡 Medium | `General` | `2026-10-20` |
-| 0058 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [PY](./DSA/Strings/reverse-a-string-i/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-25` |
-| 0059 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [PY](./DSA/Strings/reverse-a-string-ii/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
-| 0060 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
-| 0061 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [PY](./DSA/Arrays/reverse-an-array-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0062 | [324. Rotate String](./DSA/Strings/rotate-string) | [PY](./DSA/Strings/rotate-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
-| 0063 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0064 | [695. Second Largest Element](./DSA/General/second-largest-element) | [PY](./DSA/General/second-largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
-| 0065 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [PY](./DSA/Arrays/selection-sort/solution.py) | 🟡 Medium | `Arrays` | `2026-10-25` |
-| 0066 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [PY](./DSA/Arrays/sort-characters-by-frequency/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0067 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
-| 0068 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [PY](./DSA/Arrays/sum-of-array-elements-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0069 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [PY](./DSA/General/sum-of-digits-in-a-given-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0070 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0071 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0072 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0073 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0031 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0032 | [895. Palindrome Check](./DSA/Strings/palindrome-check) | [PY](./DSA/Strings/palindrome-check/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
+| 0033 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [PY](./DSA/Strings/palindrome-number/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-20` |
+| 0034 | [896. Pattern 1](./DSA/General/pattern-1) | [PY](./DSA/General/pattern-1/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0035 | [898. Pattern 10](./DSA/General/pattern-10) | [PY](./DSA/General/pattern-10/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0036 | [907. Pattern 11](./DSA/General/pattern-11) | [PY](./DSA/General/pattern-11/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0037 | [909. Pattern 12](./DSA/General/pattern-12) | [PY](./DSA/General/pattern-12/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0038 | [918. Pattern 13](./DSA/General/pattern-13) | [PY](./DSA/General/pattern-13/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0039 | [920. Pattern 14](./DSA/General/pattern-14) | [PY](./DSA/General/pattern-14/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0040 | [929. Pattern 15](./DSA/General/pattern-15) | [PY](./DSA/General/pattern-15/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0041 | [931. Pattern 16](./DSA/General/pattern-16) | [PY](./DSA/General/pattern-16/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0042 | [940. Pattern 17](./DSA/General/pattern-17) | [PY](./DSA/General/pattern-17/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0043 | [942. Pattern 18](./DSA/General/pattern-18) | [PY](./DSA/General/pattern-18/solution.py) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0044 | [951. Pattern 19](./DSA/General/pattern-19) | [PY](./DSA/General/pattern-19/solution.py) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0045 | [953. Pattern 2](./DSA/General/pattern-2) | [PY](./DSA/General/pattern-2/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0046 | [962. Pattern 20](./DSA/General/pattern-20) | [PY](./DSA/General/pattern-20/solution.py) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0047 | [964. Pattern 21](./DSA/General/pattern-21) | [PY](./DSA/General/pattern-21/solution.py) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0048 | [973. Pattern 22](./DSA/General/pattern-22) | [PY](./DSA/General/pattern-22/solution.py) | ⚪ Unspecified | `General` | `2026-10-10` |
+| 0049 | [975. Pattern 3](./DSA/General/pattern-3) | [PY](./DSA/General/pattern-3/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0050 | [984. Pattern 4](./DSA/General/pattern-4) | [PY](./DSA/General/pattern-4/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0051 | [986. Pattern 5](./DSA/General/pattern-5) | [PY](./DSA/General/pattern-5/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0052 | [995. Pattern 6](./DSA/General/pattern-6) | [PY](./DSA/General/pattern-6/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0053 | [997. Pattern 7](./DSA/General/pattern-7) | [PY](./DSA/General/pattern-7/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0054 | [1006. Pattern 8](./DSA/General/pattern-8) | [PY](./DSA/General/pattern-8/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0055 | [1008. Pattern 9](./DSA/General/pattern-9) | [PY](./DSA/General/pattern-9/solution.py) | ⚪ Unspecified | `General` | `2026-10-07` |
+| 0056 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0057 | [957. Return the Largest Digit in a Number](./DSA/General/return-the-largest-digit-in-a-number) | [PY](./DSA/General/return-the-largest-digit-in-a-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-20` |
+| 0058 | [101. Reverse a number](./DSA/General/reverse-a-number) | [PY](./DSA/General/reverse-a-number/solution.py) | 🟡 Medium | `General` | `2026-10-20` |
+| 0059 | [294. Reverse a String I](./DSA/Strings/reverse-a-string-i) | [PY](./DSA/Strings/reverse-a-string-i/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-25` |
+| 0060 | [357. Reverse a String II](./DSA/Strings/reverse-a-string-ii) | [PY](./DSA/Strings/reverse-a-string-ii/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-22` |
+| 0061 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [PY](./DSA/Arrays/reverse-an-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0062 | [821. Reverse an array 2](./DSA/Arrays/reverse-an-array-ii) | [PY](./DSA/Arrays/reverse-an-array-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0063 | [324. Rotate String](./DSA/Strings/rotate-string) | [PY](./DSA/Strings/rotate-string/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0064 | [742. Second Highest Occurring Element](./DSA/General/second-highest-occurring-element) | [PY](./DSA/General/second-highest-occurring-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0065 | [695. Second Largest Element](./DSA/General/second-largest-element) | [PY](./DSA/General/second-largest-element/solution.py) | ⚪ Unspecified | `General` | `2026-10-26` |
+| 0066 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [PY](./DSA/Arrays/selection-sort/solution.py) | 🟡 Medium | `Arrays` | `2026-10-25` |
+| 0067 | [303. Sort Characters by Frequency](./DSA/Arrays/sort-characters-by-frequency) | [PY](./DSA/Arrays/sort-characters-by-frequency/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0068 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [PY](./DSA/Arrays/sum-of-array-elements/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-21` |
+| 0069 | [897. Sum of Array Elements II](./DSA/Arrays/sum-of-array-elements-ii) | [PY](./DSA/Arrays/sum-of-array-elements-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0070 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [PY](./DSA/General/sum-of-digits-in-a-given-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0071 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0072 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
+| 0073 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0074 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
 
 ---
 
