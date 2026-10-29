@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **82** | 0 | 82 | 0 | `2026-10-29` |
+| **83** | 0 | 83 | 0 | `2026-10-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (82)
+### DSA (83)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -97,8 +97,9 @@ POTD](./DSA/General/meeting-rooms) | [PY](./DSA/General/meeting-rooms/solution.p
 | 0078 | [965. Sum of Digits in a Given Number](./DSA/General/sum-of-digits-in-a-given-number) | [PY](./DSA/General/sum-of-digits-in-a-given-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
 | 0079 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [PY](./DSA/General/sum-of-first-n-numbers/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
 | 0080 | [749. Sum of Highest and Lowest Frequency](./DSA/General/sum-of-highest-and-lowest-frequency) | [PY](./DSA/General/sum-of-highest-and-lowest-frequency/solution.py) | ⚪ Unspecified | `General` | `2026-10-21` |
-| 0081 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
-| 0082 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
+| 0081 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-29` |
+| 0082 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0083 | [52. Valid Anagram](./DSA/Strings/valid-anagram) | [PY](./DSA/Strings/valid-anagram/solution.py) | ⚪ Unspecified | `Strings` | `2026-10-24` |
 
 ---
 
